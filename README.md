@@ -21,12 +21,15 @@ Check out [LIVE DEMO](hivetechwearfront.netlify.app/) here!!
 * Bootstrap
 * Javascript / JQuery
 * React
+* Redux
 
 ```
 ## User Story
 ```
-* Users can sugn up.
+* Users can sign up.
 * Users can sign in
 * Users can search product.
-* Users can check out products
+* users can choose the categories.
+* Users can add the product into the cart.
+* Users can check out products.
 ```
